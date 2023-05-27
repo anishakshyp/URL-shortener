@@ -1,4 +1,4 @@
-# URL-shortener - Python
+# URL-Shortener - Python
 
 A Python-based URL Shortener Project that allows user to generate shorter and more manageable URLs for easy sharing and tracking. By leveraging the power of Python and its ecosystem, this project provides a user-friendly and efficient solution for shortening lengthy URLs.
 
